@@ -1,2 +1,4 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects.
-This repository contains the projects in C# for portland tech academy
+<h1>This repository contains the projects in C# for portland tech academy</h1>
+<p> Within this repository there will be demonstrations and assingments of the code we are required to be proficent in <br>
+to pass the tech academy's course work.
