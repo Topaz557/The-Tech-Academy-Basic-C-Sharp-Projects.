@@ -10,6 +10,11 @@ namespace DailyReportSummary
     {
         static void Main(string[] args)
         {
+            //comment
+            Console.WriteLine("The Tech Academy");
+            Console.ReadLine();
+            Console.WriteLine("Student Daily Report");
+            Console.ReadLine();
             // asks what your name is
             Console.WriteLine("What is your name?");
             // sets your answer to variable yourName
