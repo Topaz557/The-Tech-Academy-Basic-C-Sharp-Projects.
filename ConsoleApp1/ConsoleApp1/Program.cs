@@ -20,10 +20,10 @@ namespace ConsoleApp1
             Console.WriteLine("Have you ever had a dui?");
             Console.WriteLine("True or False");
             string input = Console.ReadLine();
-            bool isbool = input =="False";
+            bool isbool = bool.Parse(input);
             Console.WriteLine("How many speeding tickets do you have?");
             int yourTickets = Convert.ToInt32(Console.ReadLine());
-            if (yourTickets <= 3 && yourAge > 15 && isbool)
+            if (yourTickets <= 3 && yourAge > 15 && isbool == false)
             {
                 Console.WriteLine("you are qualified");
             }
