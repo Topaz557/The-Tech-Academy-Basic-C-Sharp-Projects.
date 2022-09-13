@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\testrun\testrun\bin\Debug\testrun.exe.config
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\testrun\testrun\bin\Debug\testrun.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\testrun\testrun\bin\Debug\testrun.pdb
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\testrun\testrun\obj\Debug\testrun.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\testrun\testrun\obj\Debug\testrun.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\testrun\testrun\obj\Debug\testrun.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\testrun\testrun\obj\Debug\testrun.pdb
