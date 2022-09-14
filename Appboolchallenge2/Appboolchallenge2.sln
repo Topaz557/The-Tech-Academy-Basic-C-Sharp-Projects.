@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appboolchallenge2", "Appboolchallenge2\Appboolchallenge2.csproj", "{928FCCA2-C3C3-4B30-87EC-912B876EF965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{928FCCA2-C3C3-4B30-87EC-912B876EF965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928FCCA2-C3C3-4B30-87EC-912B876EF965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928FCCA2-C3C3-4B30-87EC-912B876EF965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928FCCA2-C3C3-4B30-87EC-912B876EF965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB1A8B52-8DA5-458E-98F4-584D02A8AEF3}
+	EndGlobalSection
+EndGlobal

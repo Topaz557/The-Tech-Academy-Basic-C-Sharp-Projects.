@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Appboolchallenge2\Appboolchallenge2\bin\Debug\Appboolchallenge2.exe.config
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Appboolchallenge2\Appboolchallenge2\bin\Debug\Appboolchallenge2.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Appboolchallenge2\Appboolchallenge2\bin\Debug\Appboolchallenge2.pdb
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Appboolchallenge2\Appboolchallenge2\obj\Debug\Appboolchallenge2.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Appboolchallenge2\Appboolchallenge2\obj\Debug\Appboolchallenge2.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Appboolchallenge2\Appboolchallenge2\obj\Debug\Appboolchallenge2.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Appboolchallenge2\Appboolchallenge2\obj\Debug\Appboolchallenge2.pdb

@@ -95,6 +95,8 @@ namespace ConsoleApp3
 
             //SWITCH STATEMENTS
 
+
+            //DO WHILE Loop (can create endless loop if you code incorectly, if it cannot equal true then it will run forever. Make sure the options are limited in a way it has to meet condition
             Console.WriteLine("Guess a number?");
             int number = Convert.ToInt32(Console.ReadLine());
             bool isGuessed = number == 12;

@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\consoleAppBoolChallenge\consoleAppBoolChallenge\obj\Debug\consoleAppBoolChallenge.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\consoleAppBoolChallenge\consoleAppBoolChallenge\obj\Debug\consoleAppBoolChallenge.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\consoleAppBoolChallenge\consoleAppBoolChallenge\bin\Debug\consoleAppBoolChallenge.exe.config
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\consoleAppBoolChallenge\consoleAppBoolChallenge\bin\Debug\consoleAppBoolChallenge.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\consoleAppBoolChallenge\consoleAppBoolChallenge\bin\Debug\consoleAppBoolChallenge.pdb
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\consoleAppBoolChallenge\consoleAppBoolChallenge\obj\Debug\consoleAppBoolChallenge.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\consoleAppBoolChallenge\consoleAppBoolChallenge\obj\Debug\consoleAppBoolChallenge.pdb
