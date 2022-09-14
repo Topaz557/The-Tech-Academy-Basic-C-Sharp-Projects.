@@ -35,7 +35,7 @@ namespace BranchingSubmission
                 }
                 else
                 {
-                    int total = packageLength * packageHeight * packageWidth / 100;
+                    int total = packageLength * packageHeight * packageWidth * packageWeight / 100;
                     Console.WriteLine("Your estimated total for shipping this package is:$" + total);
                 }
 

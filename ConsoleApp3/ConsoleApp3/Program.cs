@@ -10,8 +10,8 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {//example of else if
-            //int currentTemperature = 70;
-            //int roomTemperature = 70;
+         //int currentTemperature = 70;
+         //int roomTemperature = 70;
 
             //if (currentTemperature == roomTemperature)
             //{
@@ -83,13 +83,57 @@ namespace ConsoleApp3
             //    Console.WriteLine("uhhhh... Something went wrong!");
             //}
             //Console.ReadLine();
-            Console.WriteLine("What is your favorite number");
-            int favNum = Convert.ToInt32(Console.ReadLine());
 
-            string result = favNum == 12 ? "You have an awesome favorite number" : "You do not have an awesome favorite number";
-            Console.WriteLine(result);
-            Console.ReadLine();
-        
+
+
+            //Console.WriteLine("What is your favorite number");
+            //int favNum = Convert.ToInt32(Console.ReadLine());
+
+            //string result = favNum == 12 ? "You have an awesome favorite number" : "You do not have an awesome favorite number";
+            //Console.WriteLine(result);
+            //Console.ReadLine();
+
+            //SWITCH STATEMENTS
+
+            Console.WriteLine("Guess a number?");
+            int number = Convert.ToInt32(Console.ReadLine());
+            bool isGuessed = number == 12;
+
+
+            do
+            {
+                switch (number)
+                {
+                    case 62:
+                        Console.WriteLine("You have guessed 62. try again");
+                        Console.WriteLine("guess a number?");
+                        number = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 29:
+                        Console.WriteLine("You guessed 29. Try again");
+                        Console.WriteLine("guess a number?");
+                        number = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 55:
+                        Console.WriteLine("You guessed 55. Try again");
+                        Console.WriteLine("guess a number?");
+                        number = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 12:
+                        Console.WriteLine("You guessed 12. that is the correct number");
+                        isGuessed = true;
+                        break;
+                    default:
+                        Console.WriteLine("You are wrong");
+                        Console.WriteLine("guess a number?");
+                        number = Convert.ToInt32(Console.ReadLine());
+                        break;
+                }
+            }
+            while (!isGuessed);
+                
+                Console.ReadLine();
+            
         }
       
     }
