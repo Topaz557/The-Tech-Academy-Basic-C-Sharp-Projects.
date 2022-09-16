@@ -12,9 +12,9 @@ namespace Appboolchallenge2
         {
             Console.WriteLine("Guess the programers favorite color");
             string color = (Console.ReadLine());
-            bool isGuessed = color == "blue";
+            bool isGuessed2 = color == "blue";
 
-            while (!isGuessed)
+            while (!isGuessed2)
             {
                 if (color == "yellow")
                 {
@@ -32,7 +32,7 @@ namespace Appboolchallenge2
                 else if (color == "blue")
                 {
                     Console.WriteLine("That is the right color!");
-                    isGuessed = true;
+                    isGuessed2 = true;
                 }
                 else 
                 {

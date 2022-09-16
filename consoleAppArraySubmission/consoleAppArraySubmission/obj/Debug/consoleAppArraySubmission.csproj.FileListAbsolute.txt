@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\consoleAppArraySubmission\consoleAppArraySubmission\bin\Debug\consoleAppArraySubmission.exe.config
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\consoleAppArraySubmission\consoleAppArraySubmission\bin\Debug\consoleAppArraySubmission.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\consoleAppArraySubmission\consoleAppArraySubmission\bin\Debug\consoleAppArraySubmission.pdb
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\consoleAppArraySubmission\consoleAppArraySubmission\obj\Debug\consoleAppArraySubmission.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\consoleAppArraySubmission\consoleAppArraySubmission\obj\Debug\consoleAppArraySubmission.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\consoleAppArraySubmission\consoleAppArraySubmission\obj\Debug\consoleAppArraySubmission.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\consoleAppArraySubmission\consoleAppArraySubmission\obj\Debug\consoleAppArraySubmission.pdb
