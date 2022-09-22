@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsSubmission\CallingMethodsSubmission\bin\Debug\CallingMethodsSubmission.exe.config
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsSubmission\CallingMethodsSubmission\bin\Debug\CallingMethodsSubmission.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsSubmission\CallingMethodsSubmission\bin\Debug\CallingMethodsSubmission.pdb
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsSubmission\CallingMethodsSubmission\obj\Debug\CallingMethodsSubmission.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsSubmission\CallingMethodsSubmission\obj\Debug\CallingMethodsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsSubmission\CallingMethodsSubmission\obj\Debug\CallingMethodsSubmission.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsSubmission\CallingMethodsSubmission\obj\Debug\CallingMethodsSubmission.pdb
