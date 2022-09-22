@@ -11,15 +11,17 @@ namespace TwentyOneGame
         static void Main(string[] args)
         {
             Deck deck = new Deck();
-            int timesShuffled = 0;
+            deck.Shuffle();
+            
+
+
             //deck = Shuffle(deck); //You can comment this line out to not shuffle the deck, can uncomment it to shuffle 
-            deck = Shuffle(deck, out timesShuffled, 3); // with the 3 we are telling the deck to shuffle three times
-           foreach (Card card in deck.Cards)
+            foreach (Card card in deck.Cards)
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
             Console.WriteLine(deck.Cards.Count);
-            Console.WriteLine("Times shuffled {0}", timesShuffled);
+            
             Console.ReadLine();
         }
 
