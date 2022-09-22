@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSub4\MethodSub4\bin\Debug\MethodSub4.exe.config
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSub4\MethodSub4\bin\Debug\MethodSub4.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSub4\MethodSub4\bin\Debug\MethodSub4.pdb
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSub4\MethodSub4\obj\Debug\MethodSub4.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSub4\MethodSub4\obj\Debug\MethodSub4.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSub4\MethodSub4\obj\Debug\MethodSub4.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSub4\MethodSub4\obj\Debug\MethodSub4.pdb
