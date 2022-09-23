@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyoneExample2\TwentyoneExample2\bin\Debug\TwentyoneExample2.exe.config
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyoneExample2\TwentyoneExample2\bin\Debug\TwentyoneExample2.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyoneExample2\TwentyoneExample2\bin\Debug\TwentyoneExample2.pdb
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyoneExample2\TwentyoneExample2\obj\Debug\TwentyoneExample2.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyoneExample2\TwentyoneExample2\obj\Debug\TwentyoneExample2.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyoneExample2\TwentyoneExample2\obj\Debug\TwentyoneExample2.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyoneExample2\TwentyoneExample2\obj\Debug\TwentyoneExample2.pdb
