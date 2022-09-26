@@ -15,6 +15,13 @@ namespace ConsoleApp12
             employee.LastName = "Student";
             employee.SayName();
             Console.ReadLine();
+            IQuittable quittable = new Employee();
+            quittable.Quit();
+            Console.ReadLine();
+
+            
+
+
         }
     }
 }

@@ -20,7 +20,7 @@ namespace exceptionHandling
                 int numberthree = NumberOne / numberTwo;
                 Console.WriteLine(NumberOne + "Divided by" + numberTwo + "equals" + numberthree);
                 Console.ReadLine();
-            }
+            }dis
             catch (FormatException ex)
             {
                 Console.WriteLine("Please Type a whole number.");
