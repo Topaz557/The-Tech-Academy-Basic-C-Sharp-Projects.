@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace TwentyoneExample2
 {
-    public class TwentyOneGame : game
+    public class TwentyOneGame : Game
     {
-        public void Play()
+        public override void Play()
         {
             throw new NotImplementedException();
+        }
+        public override void ListPlayers()
+        {
+            base.ListPlayers();
         }
     }
 }

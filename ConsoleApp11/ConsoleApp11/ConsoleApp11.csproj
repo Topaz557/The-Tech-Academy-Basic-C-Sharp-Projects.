@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8F875497-101C-479D-BD9B-82498DBE45D9}</ProjectGuid>
+    <ProjectGuid>{489BAEC8-C7AE-40D1-A6DB-7A2D7C89C37B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TwentyoneExample2</RootNamespace>
-    <AssemblyName>TwentyoneExample2</AssemblyName>
+    <RootNamespace>ConsoleApp11</RootNamespace>
+    <AssemblyName>ConsoleApp11</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,14 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Card.cs" />
-    <Compile Include="Dealer.cs" />
-    <Compile Include="Deck.cs" />
-    <Compile Include="Game.cs" />
-    <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TwentyOneGame.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

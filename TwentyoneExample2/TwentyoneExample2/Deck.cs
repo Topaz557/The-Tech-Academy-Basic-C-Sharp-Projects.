@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOneGame
+namespace TwentyoneExample2
 {
     public class Deck
     {
@@ -49,5 +49,6 @@ namespace TwentyOneGame
 
             }
         }
-    } 
+    }
+
 }
