@@ -30,7 +30,7 @@ namespace TwentyoneExample2
 
         }
         public List<Card> Cards { get; set; }
-        public Deck Shuffle(int times = 1) //out comment
+        public void Shuffle(int times = 1) //out comment
         {
 
             for (int i = 0; i < times; i++)
@@ -45,6 +45,7 @@ namespace TwentyoneExample2
                     TempList.Add(Cards[randomIndex]);
                     Cards.RemoveAt(randomIndex);
                 }
+
                 Cards = TempList;
 
             }
