@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyoneExample2
 {
-    public class Player
+    public class 
     {
         public List<Card> hand { get; set; }
         public int Balance  { get; set; }

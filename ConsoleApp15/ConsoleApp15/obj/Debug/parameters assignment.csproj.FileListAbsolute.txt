@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp15\ConsoleApp15\obj\Debug\parameters assignment.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp15\ConsoleApp15\obj\Debug\parameters assignment.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb

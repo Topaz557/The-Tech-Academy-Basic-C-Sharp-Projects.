@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enums HW\Enums HW\bin\Debug\Enums HW.exe.config
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enums HW\Enums HW\bin\Debug\Enums HW.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enums HW\Enums HW\bin\Debug\Enums HW.pdb
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enums HW\Enums HW\obj\Debug\Enums HW.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enums HW\Enums HW\obj\Debug\Enums HW.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enums HW\Enums HW\obj\Debug\Enums HW.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enums HW\Enums HW\obj\Debug\Enums HW.pdb
