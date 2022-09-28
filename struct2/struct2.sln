@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struct2", "struct2\struct2.csproj", "{7C4F6629-3648-4630-B7BB-DA62303D94D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C4F6629-3648-4630-B7BB-DA62303D94D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4F6629-3648-4630-B7BB-DA62303D94D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4F6629-3648-4630-B7BB-DA62303D94D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4F6629-3648-4630-B7BB-DA62303D94D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AA718C2-8D9D-45A8-8CEA-667EB7738868}
+	EndGlobalSection
+EndGlobal

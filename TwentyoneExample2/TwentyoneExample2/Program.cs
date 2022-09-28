@@ -11,8 +11,14 @@ namespace TwentyoneExample2
         static void Main(string[] args)
         {
 
-          
+            //struct is a value type that cannot inherit, a class is a reference type// structs need to have a datatype, cannot be null (any datatype cannot be null)
+            //structs
+            Card card1 = new Card();
+            Card card2 = card1;
+            card1.Face = Face.Eight;
+            card2.Face = Face.King;
 
+            Console.WriteLine(card1.Face);
 
             Deck deck = new Deck();
             deck.Shuffle(3);

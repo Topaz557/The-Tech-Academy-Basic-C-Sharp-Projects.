@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Submission\Lambda Submission\bin\Debug\Lambda Submission.exe.config
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Submission\Lambda Submission\bin\Debug\Lambda Submission.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Submission\Lambda Submission\bin\Debug\Lambda Submission.pdb
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Submission\Lambda Submission\obj\Debug\Lambda Submission.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Submission\Lambda Submission\obj\Debug\Lambda Submission.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Submission\Lambda Submission\obj\Debug\Lambda Submission.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Submission\Lambda Submission\obj\Debug\Lambda Submission.pdb

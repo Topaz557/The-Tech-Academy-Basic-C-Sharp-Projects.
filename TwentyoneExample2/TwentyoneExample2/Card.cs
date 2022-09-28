@@ -6,13 +6,9 @@ using System.Threading.Tasks;
 
 namespace TwentyoneExample2
 {
-    public class Card
+    public struct Card
     {
-        public Card()
-        {
-            Suit = "Spades";
-            Face = "Two";
-        }
+       
         public Suit Suit { get; set; } //Setting it as public allows us to use it in program class
         public Face Face { get; set; }
     }
