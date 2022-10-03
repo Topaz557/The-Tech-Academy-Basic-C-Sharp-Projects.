@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
+
 
 namespace TwentyoneExample2
 {
@@ -15,8 +17,13 @@ namespace TwentyoneExample2
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
-            Console.WriteLine(Deck.Cards.First().ToString() + "\n");
-            Deck.Cards.RemoveAt(0);
+            string card = string.Format(Deck.Cards.First().ToString() + "\n");
+            Console.WriteLine(card);
+            using (StreamWriter file = new StreamWriter(@"C:\Users\andre\Documents\GitHub\parseText\SampleParse1.txt", true))// takes in a bath from stream writer, then asks us to append (true), reference to file below, then write the card 
+            {
+                file.WriteLine(card);
+            }
+                Deck.Cards.RemoveAt(0);
         }
     }
 }

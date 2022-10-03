@@ -10,7 +10,7 @@ namespace ConsoleApp14
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee();
+            //Employee employee = new Employee();
             employee.firstName = "Jesse";
             employee.LastName = "White";
             employee.EmployeeId = 007;

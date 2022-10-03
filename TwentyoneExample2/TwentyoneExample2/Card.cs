@@ -11,6 +11,10 @@ namespace TwentyoneExample2
        
         public Suit Suit { get; set; } //Setting it as public allows us to use it in program class
         public Face Face { get; set; }
+        public override string ToString()
+        {
+            return string.Format("{0} of {1}", Face, Suit);
+        }
     }
     public enum Suit
     {
