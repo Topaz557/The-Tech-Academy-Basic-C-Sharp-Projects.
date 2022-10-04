@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FILEIO\FILEIO\bin\Debug\FILEIO.exe.config
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FILEIO\FILEIO\bin\Debug\FILEIO.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FILEIO\FILEIO\bin\Debug\FILEIO.pdb
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FILEIO\FILEIO\obj\Debug\FILEIO.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FILEIO\FILEIO\obj\Debug\FILEIO.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FILEIO\FILEIO\obj\Debug\FILEIO.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FILEIO\FILEIO\obj\Debug\FILEIO.pdb

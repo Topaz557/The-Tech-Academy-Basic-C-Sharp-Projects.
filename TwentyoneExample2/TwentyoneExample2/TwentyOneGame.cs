@@ -72,7 +72,7 @@ namespace TwentyoneExample2
                     Console.WriteLine("Your Cards are : ");
                     foreach (Card card in player.Hand)
                     {
-                        Console.Write("{0}", card.ToString());
+                        Console.Write("{0} ", card.ToString());
                     }
                     Console.WriteLine("\n\nHit or stay?");
                     string answer = Console.ReadLine().ToLower();

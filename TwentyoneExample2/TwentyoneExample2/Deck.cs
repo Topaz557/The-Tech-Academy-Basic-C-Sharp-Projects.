@@ -18,6 +18,7 @@ namespace TwentyoneExample2
                     Card card = new Card();
                     card.Face = (Face)j;
                     card.Suit = (Suit)i;
+                    Cards.Add(card);
                 }
             }
         }
