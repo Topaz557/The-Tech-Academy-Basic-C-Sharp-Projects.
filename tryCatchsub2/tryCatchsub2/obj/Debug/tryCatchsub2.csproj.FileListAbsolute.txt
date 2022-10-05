@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\tryCatchsub2\tryCatchsub2\bin\Debug\tryCatchsub2.exe.config
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\tryCatchsub2\tryCatchsub2\bin\Debug\tryCatchsub2.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\tryCatchsub2\tryCatchsub2\bin\Debug\tryCatchsub2.pdb
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\tryCatchsub2\tryCatchsub2\obj\Debug\tryCatchsub2.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\tryCatchsub2\tryCatchsub2\obj\Debug\tryCatchsub2.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\tryCatchsub2\tryCatchsub2\obj\Debug\tryCatchsub2.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\tryCatchsub2\tryCatchsub2\obj\Debug\tryCatchsub2.pdb

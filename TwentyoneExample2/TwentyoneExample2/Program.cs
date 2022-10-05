@@ -15,6 +15,7 @@ namespace TwentyoneExample2
     /// constructor chaining, using a constructor to then inherit properties
     /// Guid = unique identifier, used normally for user identification.
     /// Guid identifier = Guid.NewGuid(); , you can pass in a string, or other values, then the algorithim will generate the GUID
+    /// exception is an event that occurs during the running of a program that results in a different course or error, exception handling is preventing this break in flow
     /// </summary>
     class Program
     {
@@ -27,10 +28,18 @@ namespace TwentyoneExample2
 
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Lets start by telling me your name");
             
+            
             string playerName = Console.ReadLine();
-            Console.WriteLine("And how much money did you bring today");
-            int Amount = Convert.ToInt32(Console.ReadLine());
-              
+
+            bool validAnswer = false;
+            int Amount = 0;
+            while (!validAnswer)
+            {
+                Console.WriteLine("How much money did you bring today?");
+                validAnswer = int.TryParse(Console.ReadLine(), out Amount); // try parse changes answer from string to int, if it doesnt suceed bank stays at 0
+                if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals");
+            }
+           
             Console.WriteLine("Hello {0}. Would you like to join a game of 21 right now?", playerName);  // {0} acts as a placeholder for playername
             string answer = Console.ReadLine().ToLower();
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
@@ -39,7 +48,7 @@ namespace TwentyoneExample2
                 player.Id = Guid.NewGuid();
                 using (StreamWriter file = new StreamWriter(@"C:\Users\andre\Documents\GitHub\parseText\SampleParse1.txt", true))// takes in a bath from stream writer, then asks us to append (true), reference to file below, then write the card 
                 {
-                    file.WriteLine(player.Id);
+                    file.WriteLine(player.Id); // when you check parse text you will see a 32 bit ID for the GUID. they will always be unique. 
                    
                 }
                 Game game = new TwentyOneGame();
@@ -47,7 +56,22 @@ namespace TwentyoneExample2
                 player.isActivelyPlaying = true;
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
-                    game.Play();
+                    try
+                    {
+                        game.Play();
+                    }
+                    catch (FraudException)
+                    {
+                        Console.WriteLine("Security, kick this person out!");
+                        Console.ReadLine();
+                        return;
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("An error occured, please contact your local casino offical");
+                        Console.ReadLine();
+                        return;
+                    }
                 }
                 game -= player;
                 Console.WriteLine("Thank you for playing");
