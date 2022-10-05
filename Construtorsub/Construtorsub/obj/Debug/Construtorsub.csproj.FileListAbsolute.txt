@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Construtorsub\Construtorsub\obj\Debug\Construtorsub.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Construtorsub\Construtorsub\obj\Debug\Construtorsub.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Construtorsub\Construtorsub\bin\Debug\Construtorsub.exe.config
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Construtorsub\Construtorsub\bin\Debug\Construtorsub.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Construtorsub\Construtorsub\bin\Debug\Construtorsub.pdb
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Construtorsub\Construtorsub\obj\Debug\Construtorsub.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Construtorsub\Construtorsub\obj\Debug\Construtorsub.pdb
