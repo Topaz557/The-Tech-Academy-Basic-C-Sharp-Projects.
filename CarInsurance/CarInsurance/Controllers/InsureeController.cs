@@ -118,8 +118,21 @@ namespace CarInsurance.Controllers
         public ActionResult getQuote(int id)
         {
             Table table = db.Tables.Find(id);
+            
+            string FirstName = table.FirstName;
+            string LastName = table.LastName;
+            string EmailAddress = table.EmailAddress;
+            DateTime DateOfBirth = table.DateOfBirth;
+            int CarYear = table.CarYear;
+            string CarMake = table.CarMake;
+            string CarModel = table.CarModel;
+            bool DUI = table.DUI;
             int SpeedingTickets = table.SpeedingTickets;
-            int 
+            bool CoverageType = table.CoverageType;
+            int Quote = table.Quote;
+            
+
+            
             int BaseQuote = 50;
             if (SpeedingTickets > 0)
             {
