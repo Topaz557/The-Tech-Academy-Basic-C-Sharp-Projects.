@@ -8,6 +8,7 @@ using System.Web;
 using System.Web.Mvc;
 using CarInsurance.Models;
 
+
 namespace CarInsurance.Controllers
 {
     public class InsureeController : Controller
@@ -16,6 +17,10 @@ namespace CarInsurance.Controllers
 
         // GET: Insuree
         public ActionResult Index()
+        {
+            return View(db.Tables.ToList());
+        }
+        public ActionResult Admin()
         {
             return View(db.Tables.ToList());
         }
@@ -50,9 +55,11 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                table.Quote = GetQuote(table);
                 db.Tables.Add(table);
+                
                 db.SaveChanges();
-                getQuote(table.Id); //connects to out get quote function
+                
                 return RedirectToAction("Index");
             }
 
@@ -83,6 +90,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                table.Quote = GetQuote(table);
                 db.Entry(table).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -115,13 +123,13 @@ namespace CarInsurance.Controllers
             db.SaveChanges();
             return RedirectToAction("Index");
         }
-        public ActionResult getQuote(int id)
+        public decimal GetQuote(Table table)
         {
-            Table table = db.Tables.Find(id);
+            //Table table = db.Tables.Find(id);
             
-            string FirstName = table.FirstName;
-            string LastName = table.LastName;
-            string EmailAddress = table.EmailAddress;
+            //string FirstName = table.FirstName;
+            //string LastName = table.LastName;
+            //string EmailAddress = table.EmailAddress;
             DateTime DateOfBirth = table.DateOfBirth;
             int CarYear = table.CarYear;
             string CarMake = table.CarMake;
@@ -129,16 +137,54 @@ namespace CarInsurance.Controllers
             bool DUI = table.DUI;
             int SpeedingTickets = table.SpeedingTickets;
             bool CoverageType = table.CoverageType;
-            int Quote = table.Quote;
+            decimal BaseQuote = table.Quote;
             
 
             
-            int BaseQuote = 50;
-            if (SpeedingTickets > 0)
+            BaseQuote = 50;
+            for (int i = 0; i < SpeedingTickets; i++) // only required for
             {
-                BaseQuote += SpeedingTickets * 10;
+                BaseQuote += 10;
+            }
+            if (DateTime.Now.Year - table.DateOfBirth.Year <= 18) // use if for remaining statements, except for the two bools
+            {
+                BaseQuote += 100;
 
             }
+            if (DateTime.Now.Year - table.DateOfBirth.Year <= 25 && DateTime.Now.Year - table.DateOfBirth.Year >= 19)
+            {
+                BaseQuote += 50;
+            }
+            if (DateTime.Now.Year - table.DateOfBirth.Year >= 26)
+            {
+                BaseQuote += 25;
+            }
+            if (CarMake == "Porsche")
+            {
+                BaseQuote += BaseQuote + 25;
+                if (CarModel == "911 Carrera")
+                {
+                    BaseQuote += 25;
+                }
+            }
+            if (CarYear < 2015)
+            {
+                BaseQuote += 25;
+            }
+            if (CarYear > 2000)
+            {
+                BaseQuote += 25;
+            }
+            if (table.DUI == true)
+            {
+                BaseQuote += (.25m ) * BaseQuote;
+            }
+            if (table.CoverageType == true)
+            {
+                BaseQuote += (0.5m ) * BaseQuote; 
+            }
+
+            return BaseQuote;
         }
 
         protected override void Dispose(bool disposing)
