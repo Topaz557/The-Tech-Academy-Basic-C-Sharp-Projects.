@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    
+           
+        
+       
+</div>
+
+@*// This program was not running until we added the HTML, Body, and P tags. We needed to essentially build out a new webpage. If you enounter this error in future please note
+*@<html>
+    
+    <body>
+    <h2 style="background-color: beige; font-family: Verdana, Arial;"> This is our header!</h2>
+    @{
+       var T = DateTime.Now;
+    }
+    <p> Your Current Server time is @T;
+        </p>
+    </body>
+</html>
