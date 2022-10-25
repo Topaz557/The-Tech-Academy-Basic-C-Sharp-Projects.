@@ -1,0 +1,13 @@
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstDataCorrect\CodeFirstDataCorrect\obj\Debug\CodeFirstDataCorrect.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstDataCorrect\CodeFirstDataCorrect\obj\Debug\CodeFirstDataCorrect.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstDataCorrect\CodeFirstDataCorrect\obj\Debug\CodeFirstDataCorrect.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstDataCorrect\CodeFirstDataCorrect\bin\Debug\CodeFirstDataCorrect.exe.config
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstDataCorrect\CodeFirstDataCorrect\bin\Debug\CodeFirstDataCorrect.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstDataCorrect\CodeFirstDataCorrect\bin\Debug\CodeFirstDataCorrect.pdb
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstDataCorrect\CodeFirstDataCorrect\bin\Debug\EntityFramework.dll
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstDataCorrect\CodeFirstDataCorrect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstDataCorrect\CodeFirstDataCorrect\bin\Debug\EntityFramework.xml
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstDataCorrect\CodeFirstDataCorrect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstDataCorrect\CodeFirstDataCorrect\obj\Debug\CodeFirstDataCorrect.csproj.CopyComplete
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstDataCorrect\CodeFirstDataCorrect\obj\Debug\CodeFirstDataCorrect.exe
+C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstDataCorrect\CodeFirstDataCorrect\obj\Debug\CodeFirstDataCorrect.pdb
