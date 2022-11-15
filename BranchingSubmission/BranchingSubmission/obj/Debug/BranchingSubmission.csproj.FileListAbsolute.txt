@@ -1,7 +1,0 @@
-C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingSubmission\BranchingSubmission\bin\Debug\BranchingSubmission.exe.config
-C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingSubmission\BranchingSubmission\bin\Debug\BranchingSubmission.exe
-C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingSubmission\BranchingSubmission\bin\Debug\BranchingSubmission.pdb
-C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingSubmission\BranchingSubmission\obj\Debug\BranchingSubmission.csproj.AssemblyReference.cache
-C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingSubmission\BranchingSubmission\obj\Debug\BranchingSubmission.csproj.CoreCompileInputs.cache
-C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingSubmission\BranchingSubmission\obj\Debug\BranchingSubmission.exe
-C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingSubmission\BranchingSubmission\obj\Debug\BranchingSubmission.pdb

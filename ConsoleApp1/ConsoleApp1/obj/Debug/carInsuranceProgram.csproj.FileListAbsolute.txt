@@ -1,7 +1,0 @@
-C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\carInsuranceProgram.csproj.AssemblyReference.cache
-C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\carInsuranceProgram.csproj.CoreCompileInputs.cache
-C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\andre\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
